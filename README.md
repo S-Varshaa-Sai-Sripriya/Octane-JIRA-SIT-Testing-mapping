@@ -14,6 +14,10 @@ This tool processes Excel files containing test execution data and creates a map
 - 💾 **Excel Export**: Download transformed data as Excel (.xlsx) format (Use full screen to see the download button)
 - 🖥️ **User-Friendly GUI**: Simple desktop interface built with tkinter
 
+## NOTE:
+
+Create two folders called "inputs" and "outputs" (case sensitive) and only into these folders, please upload your input files and the final output file.
+
 ## Prerequisites
 
 - Python 3.7 or higher
